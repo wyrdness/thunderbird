@@ -1,0 +1,833 @@
+{
+  "category": "CRYPTID",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/thunderbird",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "thunderbird",
+    "name": "Thunderbird",
+    "aliases": [
+      {
+        "name": "Wakinyan",
+        "language": "Lakota",
+        "region": "Great Plains",
+        "meaning": "sacred winged being"
+      },
+      {
+        "name": "Animikii",
+        "language": "Ojibwe",
+        "region": "Great Lakes",
+        "meaning": "thunderer"
+      },
+      {
+        "name": "Kw'atee",
+        "language": "Kwakiutl",
+        "region": "Pacific Northwest"
+      },
+      {
+        "name": "Big Bird",
+        "region": "Modern USA",
+        "meaning": "Colloquial term in contemporary sightings"
+      }
+    ],
+    "category": "CRYPTID",
+    "subcategory": "Giant Bird",
+    "tags": [
+      "avian",
+      "giant-creature",
+      "north-america",
+      "indigenous-mythology",
+      "spiritual-being",
+      "cryptid",
+      "flying"
+    ],
+    "status": "active",
+    "description": {
+      "summary": "An enormous bird creature with reported wingspans of 15-20+ feet, dark plumage, and thunderous wing sounds. Sacred to many Native American nations and reported in modern cryptozoological sightings across North America.",
+      "full": "The Thunderbird is one of the most widespread and culturally significant phenomena in Native American traditions, described as a massive bird capable of creating thunder with its wings and lightning from its eyes. In modern cryptozoology, Thunderbird refers to reports of giant birds far exceeding the size of any known species, with wingspans estimated at 15-20 feet or more. These creatures are described with dark plumage, massive bodies, and powerful flight. Modern sightings include the famous 1977 Lawndale, Illinois incident where a giant bird allegedly attempted to carry off a child. The phenomenon bridges ancient spiritual traditions with contemporary cryptozoological investigation, raising questions about surviving prehistoric avians, misidentified known species, or the intersection of folklore and reality."
+    },
+    "etymology": {
+      "origin": "English term 'Thunderbird' is a translation of various Indigenous names referring to powerful mythological birds associated with thunder and storms. The term entered broader American usage in the 19th century.",
+      "meaning": "Named for the belief that thunder is created by the beating of its enormous wings",
+      "first_use": "Pre-colonial (Indigenous traditions), English usage circa 1800s"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Avian",
+      "subtype": "Giant Bird",
+      "variant": "North American"
+    },
+    "related_phenomena": [
+      {
+        "id": "roc",
+        "name": "Roc",
+        "relationship": "similar",
+        "description": "Giant bird of Middle Eastern and Asian mythology"
+      },
+      {
+        "id": "teratorns",
+        "name": "Teratorns",
+        "relationship": "possible_ancestor",
+        "description": "Extinct prehistoric giant birds, Argentavis had 23-foot wingspan"
+      },
+      {
+        "id": "condor",
+        "name": "California/Andean Condor",
+        "relationship": "misidentification_candidate",
+        "description": "Largest living flying birds, 9-10 foot wingspan"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "wingspan": {
+        "min": 4.5,
+        "max": 6.0,
+        "unit": "meters",
+        "notes": "15-20+ feet reported, exceeding any known living bird",
+        "confidence": "low"
+      },
+      "body_length": {
+        "min": 1.2,
+        "max": 2.4,
+        "unit": "meters",
+        "notes": "4-8 feet estimated",
+        "confidence": "low"
+      },
+      "coloration": [
+        "black",
+        "dark brown",
+        "grayish-black",
+        "sometimes with white markings"
+      ],
+      "features": [
+        {
+          "feature": "Wingspan",
+          "description": "Massive wingspan far exceeding known birds, 15-20+ feet reported",
+          "frequency": "always"
+        },
+        {
+          "feature": "Plumage",
+          "description": "Dark, usually black or dark brown feathers",
+          "frequency": "common"
+        },
+        {
+          "feature": "Beak",
+          "description": "Large, curved beak described as raptor-like",
+          "frequency": "common"
+        },
+        {
+          "feature": "Talons",
+          "description": "Massive claws capable of grasping large prey",
+          "frequency": "common"
+        },
+        {
+          "feature": "Wing sound",
+          "description": "Thunderous or extremely loud wing beats",
+          "frequency": "common"
+        },
+        {
+          "feature": "Head",
+          "description": "Often described with bald or featherless head, vulture-like",
+          "frequency": "occasional"
+        }
+      ],
+      "morphology": "Massive avian with proportions similar to raptors or vultures but at unprecedented scale. Powerful build suggesting capability to carry large prey."
+    },
+    "abilities": [
+      {
+        "ability": "Powerful flight",
+        "description": "Capable of sustained flight despite enormous size",
+        "frequency": "always",
+        "evidence_level": "reported"
+      },
+      {
+        "ability": "Lifting heavy prey",
+        "description": "Reports of carrying deer-sized animals or attempting to lift humans",
+        "frequency": "occasional",
+        "evidence_level": "reported"
+      },
+      {
+        "ability": "Thunderous wing sounds",
+        "description": "Wing beats described as creating thunder-like sounds",
+        "frequency": "common",
+        "evidence_level": "reported"
+      },
+      {
+        "ability": "High altitude flight",
+        "description": "Observed soaring at considerable heights",
+        "frequency": "common",
+        "evidence_level": "reported"
+      }
+    ],
+    "behavior": {
+      "activity_period": "diurnal",
+      "disposition": "neutral",
+      "social_structure": "solitary or pairs",
+      "habitat_preference": [
+        "mountainous regions",
+        "river valleys",
+        "open wilderness",
+        "areas with thermal updrafts"
+      ],
+      "diet": "Presumed carnivorous, reports of targeting livestock and large mammals",
+      "patterns": [
+        "Soaring flight similar to vultures/condors",
+        "Occasionally observed near human settlements",
+        "Reports often near mountains or large bodies of water",
+        "Some accounts describe territorial behavior"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Reported throughout North America with concentration in Midwest, Great Plains, and Pacific Northwest. Traditional Indigenous accounts span entire continent.",
+      "continents": ["North America"],
+      "countries": ["United States", "Canada", "Mexico"],
+      "regions": [
+        "Great Plains",
+        "Midwest USA",
+        "Pacific Northwest",
+        "Great Lakes region",
+        "Appalachian Mountains",
+        "Southwest USA"
+      ]
+    },
+    "hotspots": [
+      {
+        "name": "Lawndale",
+        "location": {
+          "description": "Lawndale, Logan County",
+          "country": "United States",
+          "region": "Illinois",
+          "coordinates": {
+            "latitude": 40.1692,
+            "longitude": -89.2112
+          }
+        },
+        "sighting_count": 15,
+        "peak_period": "1977",
+        "notes": "Site of famous Marlon Lowe attempted abduction case"
+      },
+      {
+        "name": "Pennsylvania",
+        "location": {
+          "description": "Various locations",
+          "country": "United States",
+          "region": "Pennsylvania"
+        },
+        "sighting_count": 35,
+        "peak_period": "2001-2002",
+        "notes": "Wave of giant bird sightings across state"
+      },
+      {
+        "name": "Alaska",
+        "location": {
+          "description": "Various remote areas",
+          "country": "United States",
+          "region": "Alaska"
+        },
+        "sighting_count": 20,
+        "peak_period": "1990s-present",
+        "notes": "Multiple reports from native communities"
+      }
+    ],
+    "temporal": {
+      "first_recorded": {
+        "date": "Pre-colonial",
+        "circa": true,
+        "source": "Indigenous oral traditions predate European contact by centuries"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "1948",
+          "description": "Illinois giant bird sightings"
+        },
+        {
+          "period": "1977",
+          "description": "Lawndale incident and surrounding reports"
+        },
+        {
+          "period": "2001-2002",
+          "description": "Pennsylvania big bird wave"
+        }
+      ],
+      "seasonal_patterns": "No clear seasonal pattern, reports throughout year"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "The Thunderbird is one of the most important and widespread figures in Indigenous North American spirituality. Present in traditions of Plains nations (Lakota, Cheyenne), Great Lakes peoples (Ojibwe, Menominee), Pacific Northwest nations (Kwakiutl, Haida), and many others. Considered a powerful supernatural being associated with storms, rain, protection, and spiritual power.",
+      "earliest_accounts": "Indigenous oral traditions dating back countless generations. Represented on totem poles, in petroglyphs, and in sacred ceremonies.",
+      "folklore_connections": "Connected to worldwide giant bird mythology including the Roc of Arabian tales, Garuda of Hindu/Buddhist tradition, and Simurgh of Persian mythology."
+    },
+    "timeline": [
+      {
+        "date": "Pre-colonial",
+        "event": "Indigenous Thunderbird traditions",
+        "significance": "Sacred being central to many Native American spiritual traditions",
+        "source": "Oral traditions, petroglyphs, ceremonial objects"
+      },
+      {
+        "date": "1890",
+        "event": "Tombstone Arizona photograph claim",
+        "significance": "Disputed photograph allegedly showing dead thunderbird with cowboys, likely hoax or misremembered",
+        "source": "Folk accounts, no photograph verified"
+      },
+      {
+        "date": "1948-04-10",
+        "event": "Illinois giant bird sightings",
+        "significance": "Multiple witnesses report enormous bird over Illinois, some describing 12+ foot wingspan",
+        "source": "Newspaper accounts"
+      },
+      {
+        "date": "1977-07-25",
+        "event": "Lawndale incident - Marlon Lowe case",
+        "significance": "Giant bird allegedly attacked and briefly lifted 10-year-old boy, witnessed by multiple people",
+        "source": "Contemporary news reports, witness interviews"
+      },
+      {
+        "date": "2001-2002",
+        "event": "Pennsylvania big bird wave",
+        "significance": "Dozens of reports across Pennsylvania of enormous dark birds",
+        "source": "Pennsylvania Bigfoot Society, news reports"
+      },
+      {
+        "date": "2002-2018",
+        "event": "Ongoing modern sightings",
+        "significance": "Continued reports across North America, investigated by cryptozoologists",
+        "source": "Various cryptozoology databases"
+      }
+    ],
+    "modern_era": "Modern Thunderbird research attempts to distinguish between cultural/spiritual Thunderbird traditions and cryptozoological reports of anomalously large birds. Researchers investigate whether sightings represent surviving teratorns, misidentified known birds, or other explanations while respecting the deep spiritual significance in Indigenous cultures."
+  },
+
+  "sightings": {
+    "statistics": {
+      "total_documented": 200,
+      "verified": 0,
+      "disputed": 180,
+      "debunked": 15,
+      "date_range": {
+        "earliest": "Pre-colonial (traditional accounts)",
+        "latest": "2026"
+      }
+    },
+    "notable": [
+      {
+        "id": "thunderbird-sighting-1977-lawndale",
+        "name": "Lawndale Marlon Lowe Incident",
+        "date": {
+          "value": "1977-07-25",
+          "precision": "exact"
+        },
+        "location": {
+          "description": "Lawndale, Logan County",
+          "country": "United States",
+          "region": "Illinois",
+          "locality": "Lawndale",
+          "coordinates": {
+            "latitude": 40.1692,
+            "longitude": -89.2112,
+            "precision": "approximate"
+          }
+        },
+        "witnesses": {
+          "count": 5,
+          "types": ["Parents", "Children", "Neighbors"],
+          "credibility_factors": ["Multiple witnesses", "Consistent accounts", "Immediate reporting"]
+        },
+        "description": "Ten-year-old Marlon Lowe was playing in his yard when two enormous black birds with white-banded necks appeared. One bird allegedly grabbed the boy by his shirt with its talons and lifted him approximately two feet off the ground, carrying him about 35-40 feet before dropping him. The boy's mother, Ruth Lowe, witnessed the attack and screamed, causing the bird to release her son. The birds were described as having wingspans of 8-10 feet, massive bodies, curved beaks, and bald heads. Several neighbors also reported seeing the giant birds.",
+        "conditions": {
+          "weather": "Clear",
+          "visibility": "Excellent",
+          "time_of_day": "Early evening",
+          "duration": "Several minutes"
+        },
+        "evidence": [
+          "Multiple witness testimony",
+          "Contemporary news reports",
+          "Physical marks on child (reported)",
+          "Damaged shirt (reported)"
+        ],
+        "credibility": {
+          "rating": "medium",
+          "factors": [
+            "Multiple independent witnesses",
+            "Immediate reporting to authorities",
+            "Physical evidence (clothing damage)",
+            "No clear motivation for hoax",
+            "Witnesses maintained story consistently",
+            "No known birds capable of lifting 65-pound child"
+          ],
+          "notes": "One of the most famous and investigated Thunderbird cases. Skeptics suggest misidentified large vultures, though Turkey Vultures lack strength to lift child."
+        },
+        "sources": [
+          "Loren Coleman (1977). 'The Lawndale Thunderbirds'",
+          "Contemporary newspaper reports, Lincoln Courier",
+          "Jerome Clark (1993). Unexplained!"
+        ],
+        "featured": true
+      },
+      {
+        "id": "thunderbird-sighting-1948-illinois",
+        "name": "Illinois Giant Bird Wave",
+        "date": {
+          "value": "1948-04-10",
+          "precision": "approximate"
+        },
+        "location": {
+          "description": "Various locations in Illinois",
+          "country": "United States",
+          "region": "Illinois",
+          "coordinates": {
+            "latitude": 40.0,
+            "longitude": -89.0,
+            "precision": "approximate"
+          }
+        },
+        "witnesses": {
+          "count": 10,
+          "types": ["Civilians", "Former Army colonel"],
+          "credibility_factors": ["Multiple independent witnesses", "Credentialed observers"]
+        },
+        "description": "Multiple witnesses across Illinois reported seeing an enormous bird with an estimated wingspan of 12+ feet. One witness, former Army colonel Walter Siegmund, described it as larger than any known bird. The creature was described as having dark plumage and flying at considerable altitude.",
+        "conditions": {
+          "weather": "Clear",
+          "visibility": "Good",
+          "time_of_day": "Daytime",
+          "duration": "Brief sightings"
+        },
+        "evidence": [
+          "Multiple witness reports",
+          "Newspaper documentation",
+          "Consistent descriptions"
+        ],
+        "credibility": {
+          "rating": "medium",
+          "factors": [
+            "Multiple witnesses",
+            "Credentialed observer (Army colonel)",
+            "Contemporary documentation",
+            "Consistent size estimates exceed known birds"
+          ],
+          "notes": "Well-documented wave of sightings. Skeptics suggest migrating California Condors, though outside normal range."
+        },
+        "sources": [
+          "St. Louis Post-Dispatch, April 1948",
+          "Alton Evening Telegraph reports"
+        ],
+        "featured": true
+      },
+      {
+        "id": "thunderbird-sighting-2001-pa",
+        "name": "Pennsylvania Big Bird Wave",
+        "date": {
+          "value": "2001-09-01",
+          "precision": "approximate"
+        },
+        "location": {
+          "description": "Multiple counties across Pennsylvania",
+          "country": "United States",
+          "region": "Pennsylvania",
+          "coordinates": {
+            "latitude": 40.5,
+            "longitude": -77.5,
+            "precision": "approximate"
+          }
+        },
+        "witnesses": {
+          "count": 30,
+          "types": ["Civilians"],
+          "credibility_factors": ["Multiple independent reports", "Geographic clustering"]
+        },
+        "description": "Between 2001 and 2002, dozens of witnesses across Pennsylvania reported seeing enormous dark birds with wingspans estimated at 10-15 feet. Descriptions were remarkably consistent: dark brown or black plumage, massive bodies, bald or featherless heads, and powerful flight. Some witnesses compared the size to small airplanes.",
+        "conditions": {
+          "weather": "Various",
+          "visibility": "Good to excellent",
+          "time_of_day": "Various, mostly daytime",
+          "duration": "Brief to several minutes"
+        },
+        "evidence": [
+          "Multiple witness reports",
+          "Investigator documentation",
+          "Consistent descriptions"
+        ],
+        "credibility": {
+          "rating": "medium",
+          "factors": [
+            "High number of reports",
+            "Geographic and temporal clustering",
+            "Consistent descriptions",
+            "No clear mass hysteria trigger",
+            "Some witnesses were outdoorsmen/hunters"
+          ],
+          "notes": "Investigated by Stan Gordon and Pennsylvania Bigfoot Society. No definitive explanation provided."
+        },
+        "sources": [
+          "Stan Gordon's Pennsylvania research",
+          "Pennsylvania Bigfoot Society reports"
+        ],
+        "featured": true
+      }
+    ],
+    "database_path": "./sightings/"
+  },
+
+  "evidence": {
+    "physical": [
+      {
+        "id": "thunderbird-evidence-feathers",
+        "type": "feathers",
+        "name": "Anomalous feather samples",
+        "date": "Various",
+        "description": "Occasional reports of unusually large feathers found near sighting locations",
+        "status": "disputed",
+        "analysis": "Most identified as known large birds (eagles, swans). Some remain unidentified but not confirmed as unknown species.",
+        "source": "Various witness collections"
+      },
+      {
+        "id": "thunderbird-evidence-tracks",
+        "type": "footprints",
+        "name": "Large avian tracks",
+        "date": "Various",
+        "description": "Reports of unusually large three-toed tracks near sighting areas",
+        "status": "disputed",
+        "analysis": "Difficult to distinguish from large known birds without clear size reference",
+        "source": "Witness photographs"
+      }
+    ],
+    "photographic": [
+      {
+        "id": "thunderbird-evidence-tombstone",
+        "type": "photograph",
+        "name": "Tombstone Thunderbird Photo",
+        "date": "1890 (claimed)",
+        "description": "Legendary photograph allegedly showing cowboys with dead giant bird. Despite many claims of having seen it, no photograph has been verified.",
+        "status": "debunked",
+        "analysis": "Likely false memory or misattribution. No credible evidence photo ever existed.",
+        "source": "Folk legend, no verified source"
+      }
+    ],
+    "video": [
+      {
+        "id": "thunderbird-evidence-modern-video",
+        "type": "video",
+        "name": "Various modern videos",
+        "date": "2000s-present",
+        "description": "Several videos claiming to show giant birds, mostly from distance",
+        "status": "disputed",
+        "analysis": "Most are too distant or low-quality to definitively identify. Many likely known large birds.",
+        "source": "YouTube, social media"
+      }
+    ],
+    "trace": [
+      {
+        "id": "thunderbird-evidence-damage",
+        "type": "physical damage",
+        "name": "Livestock predation",
+        "description": "Reports of livestock kills attributed to giant birds",
+        "status": "disputed",
+        "analysis": "Difficult to distinguish from known predators or scavengers"
+      }
+    ]
+  },
+
+  "theories": {
+    "cryptozoological": [
+      {
+        "name": "Surviving Teratorns",
+        "description": "Thunderbirds are surviving populations of teratorns, prehistoric giant birds that officially went extinct 10,000 years ago. Teratornis merriami had 12-foot wingspan; Argentavis magnificens reached 23 feet.",
+        "proponents": ["Various cryptozoologists"],
+        "evidence_cited": [
+          "Size estimates match teratorn proportions",
+          "Descriptions match raptor/vulture morphology",
+          "Isolated populations could survive in remote areas",
+          "Indigenous traditions may preserve actual species memory"
+        ],
+        "challenges": [
+          "No physical remains found in modern era",
+          "Extinction well-documented in fossil record",
+          "Requires 10,000 year survival without detection"
+        ]
+      },
+      {
+        "name": "Unknown Large Raptor",
+        "description": "An undiscovered species of very large raptor or vulture, larger than known species but not as extreme as teratorns",
+        "proponents": ["Moderate cryptozoologists"],
+        "evidence_cited": [
+          "Many birds discovered in 20th century",
+          "Remote wilderness areas remain poorly surveyed",
+          "More plausible than prehistoric survival"
+        ]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Misidentified Condors",
+        "description": "California or Andean Condors seen outside normal range, appearing larger due to perspective, lighting, or proximity",
+        "proponents": ["Benjamin Radford", "Skeptical investigators"],
+        "evidence_cited": [
+          "Condors have 9-10 foot wingspans, largest in North America",
+          "Distance and angle can exaggerate size",
+          "Condors occasionally wander outside range",
+          "Description matches condor morphology"
+        ]
+      },
+      {
+        "name": "Misidentified Other Large Birds",
+        "description": "Various large known birds misidentified: Turkey Vultures, Golden Eagles, Great Blue Herons, Pelicans, or Sandhill Cranes",
+        "proponents": ["Ornithologists", "Skeptics"],
+        "evidence_cited": [
+          "Turkey Vultures common, 6-foot wingspan",
+          "Golden Eagles up to 7.5 feet",
+          "Size easily overestimated without reference",
+          "Human poor at estimating aerial object size"
+        ]
+      },
+      {
+        "name": "Folklore and Expectation",
+        "description": "Sightings influenced by widespread Thunderbird folklore, causing misinterpretation of known birds",
+        "proponents": ["Folklorists", "Psychologists"],
+        "evidence_cited": [
+          "Reports increase in areas with strong Thunderbird traditions",
+          "Cultural priming affects perception",
+          "Lawndale children may have seen large Turkey Vultures"
+        ]
+      }
+    ],
+    "spiritual": [
+      {
+        "name": "Spiritual Manifestation",
+        "description": "From Indigenous perspective, Thunderbird is a spiritual being that may manifest physically or be perceived by those spiritually attuned",
+        "proponents": ["Some Indigenous traditionalists"],
+        "evidence_cited": [
+          "Thunderbird's role in sacred traditions",
+          "Beings may exist on spiritual and physical planes",
+          "Not all phenomena require material explanation"
+        ],
+        "notes": "This perspective should be respected as distinct from cryptozoological theories"
+      }
+    ]
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Lakota Wakinyan - sacred beings that bring storms and renewal",
+        "Ojibwe Animikii - thunderers that battle underwater serpents",
+        "Kwakiutl traditions - powerful spirits represented on totem poles",
+        "Menominee beliefs - white thunderbirds control weather",
+        "Passamaquoddy legends - giant birds from the north"
+      ],
+      "stories": [
+        "Thunderbird battles with underwater panthers/serpents (widespread)",
+        "Thunderbird as protector of humans from evil spirits",
+        "Thunderbird creation stories in various tribal traditions",
+        "Vision quest encounters with Thunderbird spirits"
+      ],
+      "beliefs": "Thunderbird is considered one of the most powerful beings in many Indigenous spiritual systems. Associated with weather, war, protection, and renewal. Often seen as servant of the Great Spirit. Looking directly at Thunderbird can bring blindness (some traditions). Feathers and symbols carry great spiritual power."
+    },
+    "indigenous": {
+      "cultures": [
+        "Lakota Sioux",
+        "Ojibwe",
+        "Menominee",
+        "Kwakiutl",
+        "Haida",
+        "Nootka",
+        "Passamaquoddy",
+        "Cheyenne",
+        "Blackfoot"
+      ],
+      "significance": "Thunderbird is sacred and central to spiritual practice, ceremony, and cosmology. Not merely a legend but an important spiritual reality. Represented in sacred art, totem poles, ceremonial regalia, and vision quests.",
+      "sensitivity_note": "Thunderbird traditions are living spiritual practices, not folklore or mythology. These are sacred teachings deserving deep respect. The cryptozoological 'Thunderbird' phenomenon should not be conflated with or appropriated from Indigenous spiritual traditions without proper context and permission.",
+      "respect_guidelines": [
+        "Understand Thunderbird is sacred to many Indigenous peoples",
+        "Do not appropriate symbols, ceremonies, or teachings",
+        "Consult with tribal authorities before investigation on Indigenous lands",
+        "Recognize distinction between spiritual traditions and cryptozoological reports",
+        "Honor that some teachings are not meant for outsiders",
+        "Be aware that some consider discussing Thunderbird disrespectful without proper context",
+        "Support Indigenous communities' own documentation of their traditions"
+      ]
+    },
+    "popular_culture": {
+      "literature": [
+        "\"Thunderbird and Lightning\" by Sheryl McFarlane (children's book)",
+        "\"American Monsters\" by Linda S. Godfrey",
+        "Various cryptozoology encyclopedias"
+      ],
+      "film_tv": [
+        "MonsterQuest (History Channel) - Thunderbird episodes",
+        "Cryptid documentaries",
+        "Native American cultural documentaries"
+      ],
+      "symbols": [
+        "Totem pole representations (Pacific Northwest)",
+        "Petroglyphs and pictographs across North America",
+        "Ceremonial regalia and art",
+        "Modern Indigenous art",
+        "Automotive brand (Ford Thunderbird)",
+        "Military insignia and unit names"
+      ],
+      "other": [
+        "Tourism in areas with sighting history",
+        "Cryptozoology conference presentations",
+        "Folk art and commercial representations"
+      ]
+    }
+  },
+
+  "research": {
+    "researchers": [
+      {
+        "name": "Loren Coleman",
+        "affiliation": "Independent cryptozoologist",
+        "contribution": "Extensive documentation of Lawndale incident and Thunderbird sightings",
+        "period": "1970s-present"
+      },
+      {
+        "name": "Stan Gordon",
+        "affiliation": "Independent researcher",
+        "contribution": "Investigation of Pennsylvania big bird wave",
+        "period": "1990s-present"
+      },
+      {
+        "name": "Jerome Clark",
+        "affiliation": "Independent researcher",
+        "contribution": "Documentation in cryptozoology references",
+        "period": "1970s-present"
+      },
+      {
+        "name": "Mark A. Hall",
+        "affiliation": "Independent researcher",
+        "contribution": "Research on Thunderbirds and other avian cryptids",
+        "period": "1980s-2000s"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "International Cryptozoology Museum",
+        "url": "https://cryptozoologymuseum.com",
+        "focus": "Documentation and public education"
+      },
+      {
+        "name": "Pennsylvania Bigfoot Society",
+        "url": "https://www.paresearchers.com",
+        "focus": "Pennsylvania cryptid investigation including Thunderbirds"
+      }
+    ],
+    "ongoing_studies": "Limited active research compared to other cryptids. Some investigators monitor reports, interview witnesses, and attempt to distinguish between known large birds and anomalous sightings. Respectful collaboration with Indigenous communities is essential for comprehensive understanding."
+  },
+
+  "scientific_context": {
+    "paleontology": {
+      "teratorns": {
+        "description": "Family Teratornithidae, extinct giant birds of prey/scavengers",
+        "species": [
+          {
+            "name": "Teratornis merriami",
+            "wingspan": "3.5-3.8 meters (11.5-12.5 feet)",
+            "extinction": "~10,000 years ago",
+            "location": "Western North America",
+            "notes": "Most common teratorn, many fossils found"
+          },
+          {
+            "name": "Argentavis magnificens",
+            "wingspan": "~7 meters (23 feet)",
+            "extinction": "~6 million years ago",
+            "location": "South America",
+            "notes": "Largest known flying bird ever"
+          }
+        ],
+        "extinction_cause": "End of Pleistocene megafauna extinction event",
+        "fossil_record": "Well-documented in North and South America, no modern specimens"
+      }
+    },
+    "modern_birds": {
+      "largest_species": [
+        {
+          "name": "Andean Condor",
+          "wingspan": "3.0-3.2 meters (9.8-10.5 feet)",
+          "location": "South America",
+          "notes": "Heaviest flying bird"
+        },
+        {
+          "name": "California Condor",
+          "wingspan": "2.7-3.0 meters (8.9-9.8 feet)",
+          "location": "Western USA",
+          "status": "Critically endangered, intensive conservation"
+        },
+        {
+          "name": "Wandering Albatross",
+          "wingspan": "2.5-3.5 meters (8.2-11.5 feet)",
+          "location": "Southern Ocean",
+          "notes": "Largest wingspan of living birds"
+        }
+      ],
+      "comparison": "Thunderbird reports consistently describe wingspans 50-100% larger than largest known species"
+    }
+  },
+
+  "sources": [
+    {
+      "id": "coleman-2003",
+      "type": "book",
+      "title": "Mysterious America",
+      "authors": ["Loren Coleman"],
+      "publication": "Paraview Press",
+      "date": "2003",
+      "isbn": "978-1931044783"
+    },
+    {
+      "id": "hall-2004",
+      "type": "book",
+      "title": "Thunderbirds: America's Living Legends of Giant Birds",
+      "authors": ["Mark A. Hall"],
+      "publication": "Paraview Press",
+      "date": "2004",
+      "isbn": "978-1931044783"
+    },
+    {
+      "id": "godfrey-2014",
+      "type": "book",
+      "title": "American Monsters: A History of Monster Lore, Legends, and Sightings in America",
+      "authors": ["Linda S. Godfrey"],
+      "publication": "TarcherPerigee",
+      "date": "2014",
+      "isbn": "978-0399166198"
+    },
+    {
+      "id": "clark-1993",
+      "type": "book",
+      "title": "Unexplained! Strange Sightings, Incredible Occurrences, and Puzzling Physical Phenomena",
+      "authors": ["Jerome Clark"],
+      "publication": "Visible Ink Press",
+      "date": "1993",
+      "isbn": "978-0810394773"
+    }
+  ]
+}
